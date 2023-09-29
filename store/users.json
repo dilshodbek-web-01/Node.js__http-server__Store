@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Dilshodbek",
+    "budget": 555000,
+    "product": 1000,
+    "date": "2023-02-18T12:51:55.566Z"
+  },
+  {
+    "id": 2,
+    "name": "Lochinbek",
+    "budget": 555000,
+    "product": 1110,
+    "date": "2023-02-18T12:52:04.232Z"
+  },
+  {
+    "id": 3,
+    "name": "Ismoil",
+    "budget": 555000,
+    "product": 10000,
+    "date": "2023-02-18T12:52:13.227Z"
+  }
+]
